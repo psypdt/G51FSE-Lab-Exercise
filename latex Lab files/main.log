@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.3.16)  16 MAR 2018 14:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.3.16)  16 MAR 2018 15:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -24,6 +24,46 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
+)
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\graphics\graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\graphics\graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\graphics-def\pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
 ) (main.aux
 (sections/SharedDoc.aux) (sections/FirstPart.aux) (sections/SecondPart.aux)
 (sections/ThirdPart.aux) (sections/FourthPart.aux) (sections/FifthPart.aux))
@@ -41,14 +81,82 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
+
+(C:\Users\psypdt\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count88
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count89
+\nofMParguments=\count90
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count91
+\MPscratchDim=\dimen106
+\MPnumerator=\count92
+\makeMPintoPDFobject=\count93
+\everyMPtoPDFconversion=\toks16
+)
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/generic\oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 14.
-
-[1
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 \openout2 = `sections/SharedDoc.aux'.
@@ -63,7 +171,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 \openout2 = `sections/FirstPart.aux'.
 
- (sections/FirstPart.tex
+
+(sections/FirstPart.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
 
 (C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
@@ -72,27 +181,32 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+
+<spaceimage.jpg, id=13, 1927.2pt x 1084.05pt>
+File: spaceimage.jpg Graphic file (type jpg)
+ <use spaceimage.jpg>
+Package pdftex.def Info: spaceimage.jpg used on input line 21.
+(pdftex.def)             Requested size: 172.5pt x 97.03096pt.
 ) [3
 
 
-]
+ <./spaceimage.jpg (PNG copy)>]
 \openout2 = `sections/SecondPart.aux'.
 
-
-(sections/SecondPart.tex) [4
+ (sections/SecondPart.tex) [4
 
 
 ]
 \openout2 = `sections/ThirdPart.aux'.
 
- (sections/ThirdPart.tex) [5
+ (sections/ThirdPart.tex)
+[5
 
 
 ]
 \openout2 = `sections/FourthPart.aux'.
 
-
-(sections/FourthPart.tex) [6
+ (sections/FourthPart.tex) [6
 
 
 ]
@@ -101,39 +215,38 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  (sections/FifthPart.tex) [7
 
 
-]
-\openout2 = `sections/SixthPart.aux'.
+] (main.aux
+(sections/SharedDoc.aux) (sections/FirstPart.aux) (sections/SecondPart.aux)
+(sections/ThirdPart.aux) (sections/FourthPart.aux) (sections/FifthPart.aux))
 
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-No file sections/SixthPart.tex.
-(main.aux (sections/SharedDoc.aux) (sections/FirstPart.aux)
-(sections/SecondPart.aux) (sections/ThirdPart.aux) (sections/FourthPart.aux)
-(sections/FifthPart.aux) (sections/SixthPart.aux)) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 304 strings out of 493323
- 4232 string characters out of 3105037
- 56648 words of memory out of 3000000
- 3869 multiletter control sequences out of 15000+200000
+ 1564 strings out of 493323
+ 25954 string characters out of 3105040
+ 82259 words of memory out of 3000000
+ 5067 multiletter control sequences out of 15000+200000
  7895 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,8n,21p,601b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/ProgramData/App-V/078D2
-323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Mikte
-x/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/ProgramData/App-V/078D2323-9976
--4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/
-type1/public/amsfonts/cm/cmbx12.pfb><C:/ProgramData/App-V/078D2323-9976-4116-99
-73-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/pu
-blic/amsfonts/cm/cmmi10.pfb><C:/ProgramData/App-V/078D2323-9976-4116-9973-81538
-16222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/ams
-fonts/cm/cmr10.pfb><C:/ProgramData/App-V/078D2323-9976-4116-9973-8153816222DE/6
-6D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/
-cmr12.pfb><C:/ProgramData/App-V/078D2323-9976-4116-9973-8153816222DE/66D9808C-A
-32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/cmr17.pfb
-><C:/ProgramData/App-V/078D2323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E-
-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (7 pages, 98918 bytes).
+ 39i,8n,25p,601b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/ProgramData/App-V/078D2323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E
+-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogramData/App-V/078D2323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B
+8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/ProgramDat
+a/App-V/078D2323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428
+F8/root/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/ProgramData/App-V/
+078D2323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/
+Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/ProgramData/App-V/078D2323-
+9976-4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/ProgramData/App-V/078D2323-9976-4116
+-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/ProgramData/App-V/078D2323-9976-4116-9973-815
+3816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/a
+msfonts/cm/cmsy10.pfb>
+Output written on main.pdf (7 pages, 4713902 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
