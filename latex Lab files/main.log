@@ -1,0 +1,139 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2018.3.16)  16 MAR 2018 14:53
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\base\article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\base\size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (main.aux
+(sections/SharedDoc.aux) (sections/FirstPart.aux) (sections/SecondPart.aux)
+(sections/ThirdPart.aux) (sections/FourthPart.aux) (sections/FifthPart.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout2 = `sections/SharedDoc.aux'.
+
+ (sections/SharedDoc.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+) [2
+
+]
+\openout2 = `sections/FirstPart.aux'.
+
+ (sections/FirstPart.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+
+(C:\ProgramData\App-V\078D2323-9976-4116-9973-8153816222DE\66D9808C-A32C-466E-A
+4A0-6B8B426428F8\root\Miktex\tex/latex\base\omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+) [3
+
+
+]
+\openout2 = `sections/SecondPart.aux'.
+
+
+(sections/SecondPart.tex) [4
+
+
+]
+\openout2 = `sections/ThirdPart.aux'.
+
+ (sections/ThirdPart.tex) [5
+
+
+]
+\openout2 = `sections/FourthPart.aux'.
+
+
+(sections/FourthPart.tex) [6
+
+
+]
+\openout2 = `sections/FifthPart.aux'.
+
+ (sections/FifthPart.tex) [7
+
+
+]
+\openout2 = `sections/SixthPart.aux'.
+
+
+No file sections/SixthPart.tex.
+(main.aux (sections/SharedDoc.aux) (sections/FirstPart.aux)
+(sections/SecondPart.aux) (sections/ThirdPart.aux) (sections/FourthPart.aux)
+(sections/FifthPart.aux) (sections/SixthPart.aux)) ) 
+Here is how much of TeX's memory you used:
+ 304 strings out of 493323
+ 4232 string characters out of 3105037
+ 56648 words of memory out of 3000000
+ 3869 multiletter control sequences out of 15000+200000
+ 7895 words of font info for 28 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,8n,21p,601b,235s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/ProgramData/App-V/078D2
+323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Mikte
+x/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/ProgramData/App-V/078D2323-9976
+-4116-9973-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/
+type1/public/amsfonts/cm/cmbx12.pfb><C:/ProgramData/App-V/078D2323-9976-4116-99
+73-8153816222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb><C:/ProgramData/App-V/078D2323-9976-4116-9973-81538
+16222DE/66D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/ams
+fonts/cm/cmr10.pfb><C:/ProgramData/App-V/078D2323-9976-4116-9973-8153816222DE/6
+6D9808C-A32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/
+cmr12.pfb><C:/ProgramData/App-V/078D2323-9976-4116-9973-8153816222DE/66D9808C-A
+32C-466E-A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/cmr17.pfb
+><C:/ProgramData/App-V/078D2323-9976-4116-9973-8153816222DE/66D9808C-A32C-466E-
+A4A0-6B8B426428F8/root/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on main.pdf (7 pages, 98918 bytes).
+PDF statistics:
+ 54 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
